@@ -6,8 +6,7 @@ Both Japanese and English sentences are tokenized with [StanfordNLP](https://sta
 
 All texts are encoded in UTF-8. Sentence separator is `'\n'` and word separator is `' '`.
 
-
-
+Additionally, all tokenized data can be downloaded from [here](https://drive.google.com/drive/folders/1ldHD6mAJK6Q7vGeu8zk7OXdHPFVcO361?usp=sharing).
 
 
 ## Corpus statistics
@@ -22,6 +21,6 @@ All texts are encoded in UTF-8. Sentence separator is `'\n'` and word separator 
 | test.ja        |      1,000 |    8,084 |       2,306 |
 
 
-
+<br>
 
 This repo is inspired by [small_parallel_enja](https://github.com/odashi/small_parallel_enja).
